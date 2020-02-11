@@ -1,4 +1,4 @@
-Michael Braehler
+Michael Bernhard Braehler
 
 # Module 2.2 Assignment
 
